@@ -1,0 +1,190 @@
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\App.g.cs
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\MainWindow.baml
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+c:\users\milan\source\repos\Stavljanje na stanje\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.01 Excel\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.02 Nezavisnost od masine\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.03 Velekupci\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.04 FZ\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.05 Opis\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\MM\Stavljanje na stanje - 1.06 Sve Odjednom\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.07 Bez Praznih\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Dropbox\Documents\cSharpProgrami\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.08 Dodavanje kupaca i Natasine kolone\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
