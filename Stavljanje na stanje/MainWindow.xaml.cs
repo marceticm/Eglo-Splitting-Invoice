@@ -10,76 +10,44 @@ using System.Windows.Controls;
 
 namespace Stavljanje_na_stanje
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    /// 
     public class Radnja
     {
         public string Naziv { get; set; }
         public int CustomerNumber { get; set; }
-
     }
-    // kako bi bilo da korisnik moze da doda kupca i broj za komisioniranje
     public partial class MainWindow : System.Windows.Window
     {
+        IDictionary<int, string> dict = new Dictionary<int, string>();
         private List<string> sifre = new List<string>();
         private List<string> kolicine = new List<string>();
         private List<string> opisi = new List<string>();
         private List<string> porudzbenice = new List<string>();
         private string fileName;
         private bool postojiRadnja;
-        private const int dusanovacBroj = 551272;
-        private const int nisBroj = 551157;
-        private const int bulevarBroj = 551136;
-        private const int zmajBroj = 551129;
-        private const int sabacBroj = 551236;
-        private const int pazarBroj = 551062;
-        private const int karaburmaBroj = 551275;
-        private const int attriumBroj = 551226;
-        private const int halogenBroj = 550897;
-        private const int halogenKisackaBroj = 551152;
-        private const int emmezetaBroj = 551221;
-        private const int eltonBroj = 551147;
-        private const int nortecBroj = 551205;
-        private const int elektrostarBroj = 551351;
-        private const int homeLightDecorBroj = 551127;
-        private const int elektroMirkoBroj = 551355;
-        private const int rgbZrenjaninBroj = 551500;
-        private const int joluxBroj = 551162;
-        private const int nexalBroj = 551607;
-        private const int rgbSpensBroj = 551113;
-        private const int iluminaBroj = 551670;
-        private const int teaLightBroj = 551550;
-        private const int nesaElektroBroj = 551120;
-        private const int vistaBroj = 551190;
-        private const int greenDesignBroj = 551151;
-        private const int xlBroj = 551211;
-        private const int lazarBroj = 551517;
-        private const int moneroBroj = 551142;
-        private const int isterBroj = 551160;
-        private const int staisBroj = 551196;
-        private const int lutzDecoBroj = 551530;
-        private const int lutzShopBroj = 551126;
-        private const int lutzLagerBroj = 551133;
-
-        private string[] imena = new string[]
-        {
-                 "Dusanovac", "Nis", "Bulevar", "Zmaj", "Sabac", "Novi Pazar", "Karaburma",
-                  "Attrium", "Halogen", "Halogen Kisacka", "Emmezeta", "Elton",
-                  "Nortec", "Elektrostar", "Home Light Decor", "Elektro Mirko",
-                  "RGB Zrenjanin", "Jolux", "Nexal", "RGB Spens", "Ilumina", "Tea Light",
-                  "Nesaelektro", "Vista", "Green Design", "XL Prostor", "Lazar Group",
-                  "Monero", "Ister", "Stais", "LUTZ DECO (AE8)", "LUTZ SHOP (NS)", "LUTZ LAGER (ACZ)"
-        };
+        string ime = "";
 
         public MainWindow()
         {
             InitializeComponent();
             btnSacuvajFajl.Visibility = Visibility.Hidden;
+
+            string[] tekst = new string[] { };
+            string txtFileName = "KupciZaProgram.csv";
+            if (File.Exists(txtFileName))
+            {
+                tekst = File.ReadAllLines(txtFileName);
+            }
+            else
+            {
+                MessageBox.Show("Datoteka sa brojevima za komisioniranje ne postoji!");
+            }
+            for (int i = 0; i < tekst.Length; i++)
+            {
+                var linija = tekst[i];
+                var splitovanaLinija = linija.Split(';');
+                dict.Add(Convert.ToInt32(splitovanaLinija[0]), splitovanaLinija[1]);
+            }
         }
-
-
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -99,7 +67,6 @@ namespace Stavljanje_na_stanje
             btnSacuvajFajl.Visibility = Visibility.Visible;
             rdbBezOpisa.Visibility = Visibility.Visible;
             rdbOpis.Visibility = Visibility.Visible;
-
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
@@ -110,7 +77,7 @@ namespace Stavljanje_na_stanje
             rdbOpis.Visibility = Visibility.Hidden;
             MessageBox.Show("Operacija pocinje, molim sacekajte...");
 
-            foreach (var ime in imena)
+            foreach (var par in dict)
             {
                 sifre = new List<string>();
                 kolicine = new List<string>();
@@ -127,46 +94,9 @@ namespace Stavljanje_na_stanje
 
                         var radnja = new Radnja();
 
+                        ime = par.Value;
                         radnja.Naziv = ime;
-                        // zameniti nekako ovu grdosiju, da cita iz nekog niza
-                        switch (radnja.Naziv)
-                        {
-                            case "Dusanovac": radnja.CustomerNumber = dusanovacBroj; break;
-                            case "Nis": radnja.CustomerNumber = nisBroj; break;
-                            case "Bulevar": radnja.CustomerNumber = bulevarBroj; break;
-                            case "Zmaj": radnja.CustomerNumber = zmajBroj; break;
-                            case "Sabac": radnja.CustomerNumber = sabacBroj; break;
-                            case "Novi Pazar": radnja.CustomerNumber = pazarBroj; break;
-                            case "Karaburma": radnja.CustomerNumber = karaburmaBroj; break;
-                            case "Attrium": radnja.CustomerNumber = attriumBroj; break;
-                            case "Halogen": radnja.CustomerNumber = halogenBroj; break;
-                            case "Halogen Kisacka": radnja.CustomerNumber = halogenKisackaBroj; break;
-                            case "Emmezeta": radnja.CustomerNumber = emmezetaBroj; break;
-                            case "Elton": radnja.CustomerNumber = eltonBroj; break;
-                            case "Nortec": radnja.CustomerNumber = nortecBroj; break;
-                            case "Elektrostar": radnja.CustomerNumber = elektrostarBroj; break;
-                            case "Home Light Decor": radnja.CustomerNumber = homeLightDecorBroj; break;
-                            case "Elektro Mirko": radnja.CustomerNumber = elektroMirkoBroj; break;
-                            case "RGB Zrenjanin": radnja.CustomerNumber = rgbZrenjaninBroj; break;
-                            case "Jolux": radnja.CustomerNumber = joluxBroj; break;
-                            case "Nexal": radnja.CustomerNumber = nexalBroj; break;
-                            case "RGB Spens": radnja.CustomerNumber = rgbSpensBroj; break;
-                            case "Ilumina": radnja.CustomerNumber = iluminaBroj; break;
-                            case "Tea Light": radnja.CustomerNumber = teaLightBroj; break;
-                            case "Nesaelektro": radnja.CustomerNumber = nesaElektroBroj; break;
-                            case "Vista": radnja.CustomerNumber = vistaBroj; break;
-                            case "Green Design": radnja.CustomerNumber = greenDesignBroj; break;
-                            case "XL Prostor": radnja.CustomerNumber = xlBroj; break;
-                            case "Lazar Group": radnja.CustomerNumber = lazarBroj; break;
-                            case "Monero": radnja.CustomerNumber = moneroBroj; break;
-                            case "Ister": radnja.CustomerNumber = isterBroj; break;
-                            case "Stais": radnja.CustomerNumber = staisBroj; break;
-                            case "LUTZ DECO (AE8)": radnja.CustomerNumber = lutzDecoBroj; break;
-                            case "LUTZ SHOP (NS)": radnja.CustomerNumber = lutzShopBroj; break;
-                            case "LUTZ LAGER (ACZ)": radnja.CustomerNumber = lutzLagerBroj; break;
-                            default:
-                                break;
-                        }
+                        radnja.CustomerNumber = par.Key;
 
                         var broj = values[12];
                         var orderName = values[9];
@@ -200,7 +130,6 @@ namespace Stavljanje_na_stanje
                         }
                     }
                 }
-                // da ne izbacuje prazne eksele ili break?
                 if (!postojiRadnja)
                 {
                     continue;
@@ -241,7 +170,6 @@ namespace Stavljanje_na_stanje
                             excel.Cells[i, 2].Value2 = opisi[i - 1];
                             excel.Cells[i, 3].Value2 = kolicine[i - 1];
                         }
-
                     }
 
                     excel.Columns.AutoFit();
@@ -271,11 +199,7 @@ namespace Stavljanje_na_stanje
                 }
             }
 
-            // btnSacuvajFajl.Visibility = Visibility.Hidden;
-            // rdbBezOpisa.Visibility = Visibility.Hidden;
-            // rdbOpis.Visibility = Visibility.Hidden;
             MessageBox.Show("Operacija uspela!\nSpiskovi su sacuvani.");
-            // System.Diagnostics.Process.Start("explorer.exe", string.Format("/select,\"{0}\"", saveFileDialog1.FileName));
         }
 
 
