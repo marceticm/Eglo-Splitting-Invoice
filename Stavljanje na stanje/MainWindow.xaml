@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Stavljanje_na_stanje"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
         mc:Ignorable="d"
         Title="MainWindow" Height="452.439" Width="579.269">
     <Grid Background="#E1EBEB" Margin="0,0,2,2">
@@ -42,7 +43,8 @@
                 HorizontalAlignment="Left" Margin="302,314,0,0" VerticalAlignment="Top" Click="Button_Click_4"/>
         <RadioButton x:Name="rdbBezOpisa" Content="Bez Opisa" HorizontalAlignment="Left" Margin="115,198,0,0" VerticalAlignment="Top" Height="33" Width="109" IsChecked="True" FontSize="18" Foreground="#FF1CA1A9" FontWeight="Bold" Visibility="Hidden"/>
         <RadioButton x:Name="rdbOpis" Content="Sa Opisom" HorizontalAlignment="Left" Margin="329,198,0,0" VerticalAlignment="Top" Grid.ColumnSpan="2" Width="115" FontSize="18" FontWeight="Bold" Foreground="#FF1CA1A9" Visibility="Hidden"/>
-
+        <fa:ImageAwesome x:Name="loadingAnimation" Icon="Spinner" Spin="True" Margin="193,55,182,192" Opacity="0.6" SpinDuration="2" Grid.ColumnSpan="2" />
+        <Label x:Name="lblObrada" Content="Obrada je u toku. Molimo sacekajte minut..." HorizontalAlignment="Left" Margin="102,236,0,0" VerticalAlignment="Top" Height="35" Width="420" FontSize="18" Grid.ColumnSpan="2" Foreground="#FF1CA1A9" FontWeight="Bold"/>
 
     </Grid>
 </Window>

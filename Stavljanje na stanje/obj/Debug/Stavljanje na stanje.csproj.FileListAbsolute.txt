@@ -188,3 +188,22 @@ C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavlja
 C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
 C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
 C:\Users\Milan\Google Drive\Stavljanje na stanje - 1.09 Dodavanje Lutz-a\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe.config
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\bin\Debug\Stavljanje na stanje.pdb
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\bin\Debug\FontAwesome.WPF.dll
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\bin\Debug\FontAwesome.WPF.xml
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csprojAssemblyReference.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.ResolveComReference.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\MainWindow.g.cs
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\App.g.cs
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje_MarkupCompile.lref
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\MainWindow.baml
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.g.resources
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje_na_stanje.Properties.Resources.resources
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.GenerateResource.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.csproj.CopyComplete
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.exe
+C:\Users\Milan\Google Drive\Stavljanje na stanje - Svi kupci iz txt datoteke\Stavljanje na stanje\obj\Debug\Stavljanje na stanje.pdb

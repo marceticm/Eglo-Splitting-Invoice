@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
 
@@ -30,6 +31,8 @@ namespace Stavljanje_na_stanje
         {
             InitializeComponent();
             btnSacuvajFajl.Visibility = Visibility.Hidden;
+            loadingAnimation.Visibility = Visibility.Hidden;
+            lblObrada.Visibility = Visibility.Hidden;
 
             string[] tekst = new string[] { };
             string txtFileName = "KupciZaProgram.csv";
@@ -69,14 +72,8 @@ namespace Stavljanje_na_stanje
             rdbOpis.Visibility = Visibility.Visible;
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        public void Splitting(string fileName)
         {
-            var encoding = Encoding.UTF8;
-            btnSacuvajFajl.Visibility = Visibility.Hidden;
-            rdbBezOpisa.Visibility = Visibility.Hidden;
-            rdbOpis.Visibility = Visibility.Hidden;
-            MessageBox.Show("Operacija pocinje, molim sacekajte...");
-
             foreach (var par in dict)
             {
                 sifre = new List<string>();
@@ -85,7 +82,7 @@ namespace Stavljanje_na_stanje
                 porudzbenice = new List<string>();
                 // ovo ubaciti dole u using ili while
                 postojiRadnja = false;
-                using (var reader = new StreamReader(fileName, encoding))
+                using (var reader = new StreamReader(fileName, Encoding.UTF8))
                 {
                     while (!reader.EndOfStream)
                     {
@@ -156,49 +153,68 @@ namespace Stavljanje_na_stanje
                         return ulaz;
                     }
                     //sheets[1].Cells.ClearContents();
-                    for (int i = 1; i <= sifre.Count; i++)
+
+                    this.Dispatcher.Invoke(() =>
                     {
+                        for (int i = 1; i <= sifre.Count; i++)
+                        {
+                            if (rdbBezOpisa.IsChecked == true)
+                            {
+                                excel.Cells[i, 1].Value2 = sifre[i - 1];
+                                excel.Cells[i, 2].Value2 = kolicine[i - 1];
+                                excel.Cells[i, 3].Value2 = porudzbenice[i - 1];
+                            }
+                            else
+                            {
+                                excel.Cells[i, 1].Value2 = sifre[i - 1];
+                                excel.Cells[i, 2].Value2 = opisi[i - 1];
+                                excel.Cells[i, 3].Value2 = kolicine[i - 1];
+                            }
+                        }
+                        excel.Columns.AutoFit();
+
                         if (rdbBezOpisa.IsChecked == true)
                         {
-                            excel.Cells[i, 1].Value2 = sifre[i - 1];
-                            excel.Cells[i, 2].Value2 = kolicine[i - 1];
-                            excel.Cells[i, 3].Value2 = porudzbenice[i - 1];
+                            Directory.CreateDirectory(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
+                           + @"\Dokumenta " + DateTime.Now.ToShortDateString() + @"\");
+
+                            wb.SaveAs(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
+                                + @"\Dokumenta " + DateTime.Now.ToShortDateString() + @"\"
+                                + ime + " " + DateTime.Now.ToShortDateString() + ".xlsx");
                         }
                         else
                         {
-                            excel.Cells[i, 1].Value2 = sifre[i - 1];
-                            excel.Cells[i, 2].Value2 = opisi[i - 1];
-                            excel.Cells[i, 3].Value2 = kolicine[i - 1];
+                            Directory.CreateDirectory(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
+                           + @"\Dokumenta Sa Opisom " + DateTime.Now.ToShortDateString() + @"\");
+
+                            wb.SaveAs(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
+                                + @"\Dokumenta Sa Opisom " + DateTime.Now.ToShortDateString() + @"\"
+                                + ime + " " + DateTime.Now.ToShortDateString() + ".xlsx");
                         }
-                    }
-
-                    excel.Columns.AutoFit();
-
-                    if (rdbBezOpisa.IsChecked == true)
-                    {
-                        Directory.CreateDirectory(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
-                       + @"\Dokumenta " + DateTime.Now.ToShortDateString() + @"\");
-
-                        wb.SaveAs(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
-                            + @"\Dokumenta " + DateTime.Now.ToShortDateString() + @"\"
-                            + ime + " " + DateTime.Now.ToShortDateString() + ".xlsx");
-                    }
-                    else
-                    {
-                        Directory.CreateDirectory(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
-                       + @"\Dokumenta Sa Opisom " + DateTime.Now.ToShortDateString() + @"\");
-
-                        wb.SaveAs(Environment.GetFolderPath(Environment.SpecialFolder.Desktop)
-                            + @"\Dokumenta Sa Opisom " + DateTime.Now.ToShortDateString() + @"\"
-                            + ime + " " + DateTime.Now.ToShortDateString() + ".xlsx");
-                    }
+                    });
 
                     wb.Close();
                     excel.Quit();
                     //wb.Close();
                 }
             }
+        }
 
+        private async void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            var encoding = Encoding.UTF8;
+            btnSacuvajFajl.Visibility = Visibility.Hidden;
+            rdbBezOpisa.Visibility = Visibility.Hidden;
+            rdbOpis.Visibility = Visibility.Hidden;
+            // MessageBox.Show("Operacija pocinje, molim sacekajte...");
+
+            Task task = new Task(() => Splitting(fileName));
+            task.Start();
+            loadingAnimation.Visibility = Visibility.Visible;
+            lblObrada.Visibility = Visibility.Visible;
+            await task;
+            lblObrada.Visibility = Visibility.Hidden;
+            loadingAnimation.Visibility = Visibility.Hidden;
             MessageBox.Show("Operacija uspela!\nSpiskovi su sacuvani.");
         }
 
