@@ -82,51 +82,66 @@ namespace Stavljanje_na_stanje
                 porudzbenice = new List<string>();
                 // ovo ubaciti dole u using ili while
                 postojiRadnja = false;
-                using (var reader = new StreamReader(fileName, Encoding.UTF8))
+
+                try
                 {
-                    while (!reader.EndOfStream)
+                    using (var reader = new StreamReader(fileName, Encoding.UTF8))
                     {
-                        var line = reader.ReadLine();
-                        var values = line.Split(new char[] { ';' });
-
-                        var radnja = new Radnja();
-
-                        ime = par.Value;
-                        radnja.Naziv = ime;
-                        radnja.CustomerNumber = par.Key;
-
-                        var broj = values[12];
-                        var orderName = values[9];
-
-                        bool sadrziFZ(string value)
+                        while (!reader.EndOfStream)
                         {
-                            if (value.Contains("fz") || value.Contains("FZ") || value.Contains("fZ") || value.Contains("Fz"))
-                            {
-                                return true;
-                            }
-                            else
-                            {
-                                return false;
-                            }
-                        }
+                            var line = reader.ReadLine();
+                            var values = line.Split(new char[] { ';' });
 
-                        if (broj.Equals(radnja.CustomerNumber.ToString()))
-                        {
-                            postojiRadnja = true;
-                            if (sadrziFZ(orderName))
+                            var radnja = new Radnja();
+
+                            ime = par.Value;
+                            radnja.Naziv = ime;
+                            radnja.CustomerNumber = par.Key;
+
+                            var broj = values[12];
+                            var orderName = values[9];
+
+                            bool sadrziFZ(string value)
                             {
-                                continue;
+                                if (value.Contains("fz") || value.Contains("FZ") || value.Contains("fZ") || value.Contains("Fz"))
+                                {
+                                    return true;
+                                }
+                                else
+                                {
+                                    return false;
+                                }
                             }
-                            else
+
+                            if (broj.Equals(radnja.CustomerNumber.ToString()))
                             {
-                                sifre.Add(values[2]);
-                                kolicine.Add(values[14]);
-                                opisi.Add(values[3]);
-                                porudzbenice.Add(values[9]);
+                                postojiRadnja = true;
+                                if (sadrziFZ(orderName))
+                                {
+                                    continue;
+                                }
+                                else
+                                {
+                                    sifre.Add(values[2]);
+                                    kolicine.Add(values[14]);
+                                    opisi.Add(values[3]);
+                                    porudzbenice.Add(values[9]);
+                                }
                             }
                         }
                     }
                 }
+                catch (Exception)
+                {
+                    MessageBox.Show("Doslo je do greske.\nProverite da li je fajl otvoren i ako jeste zatvorite ga." +
+                        "\nAplikacija ce se restartovati.", "UPOZORENJE!");
+                    System.Diagnostics.Process.Start(System.Windows.Application.ResourceAssembly.Location);
+                    this.Dispatcher.Invoke(() =>
+                    {
+                        System.Windows.Application.Current.Shutdown();
+                    });
+                }
+
                 if (!postojiRadnja)
                 {
                     continue;
