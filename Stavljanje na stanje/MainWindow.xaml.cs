@@ -131,10 +131,10 @@ namespace Stavljanje_na_stanje
                         }
                     }
                 }
-                catch (Exception)
+                catch (Exception ex)
                 {
-                    MessageBox.Show("Doslo je do greske.\nProverite da li je fajl otvoren i ako jeste zatvorite ga." +
-                        "\nAplikacija ce se restartovati.", "UPOZORENJE!");
+                    MessageBox.Show("Doslo je do greske:\n\n" + ex.Message +
+                        "\n\nAplikacija ce se restartovati.", "UPOZORENJE!");
                     System.Diagnostics.Process.Start(System.Windows.Application.ResourceAssembly.Location);
                     this.Dispatcher.Invoke(() =>
                     {
